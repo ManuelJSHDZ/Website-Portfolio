@@ -1,1 +1,2 @@
 # Website-Portfolio
+This is my personal portfolio website, I wanted to showcase some of the projects I had worked on in school and also outside of school. I wanted to make it simple and neat looking, so i made it a one page website. The website shares some information about me and also shows my work over the past couple of years I didn't want to make my back ground colors to flashy so i decided to use a gradient for the background. I used calming colors. a couple things that is still challenging to to this day is media queries and flex boxes.
